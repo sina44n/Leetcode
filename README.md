@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/sina44n/Leetcode/tree/master/0058-length-of-last-word) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/sina44n/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Math
 |  |
 | ------- |
