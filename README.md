@@ -25,4 +25,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sina44n/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/sina44n/Leetcode/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/sina44n/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
